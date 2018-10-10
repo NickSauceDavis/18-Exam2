@@ -201,6 +201,7 @@ def problem2a(triangle):
     # -------------------------------------------------------------------------
 
 
+
 def run_test_problem2b():
     """ Tests the   problem2b   function. """
 
